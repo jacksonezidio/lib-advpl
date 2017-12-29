@@ -1,4 +1,6 @@
 lib-advpl
 =========
 
-Programas em ADVPL
+Programas utilitários em AdvPL para uso em projetos.
+
+Pode usar é livre :)
